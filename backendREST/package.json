@@ -1,0 +1,17 @@
+{
+  "name": "backendREST",
+  "version": "0.0.0",
+  "description": "BackEND REST usando MongoDB, Mongoose y ExpressV4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dledodov",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.9.2",
+    "express": "^4.10.2",
+    "method-override": "^2.3.0",
+    "mongoose": "^3.8.19"
+  }
+}
